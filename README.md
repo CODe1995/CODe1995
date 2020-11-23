@@ -21,10 +21,13 @@
 - https://github.com/CODe1995/Baekjoon-Online-Judge  
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=code1995)](https://solved.ac/code1995)  
 
-## 소중한 경험과 경험이 될 것들
+## 경험
 - [x] 2020 학부 학생회장
 - [x] [Online Judge 서비스하기](http://inje-oj.com:443)
 - [x] 코딩 대회 개최 및 출제하기
+- [x] **ICCC 2020** poster paper accepted
+
+## 계획
 - [ ] **Samsung Software Academy**
 
 ## Github Stats
