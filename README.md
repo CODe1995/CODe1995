@@ -17,10 +17,6 @@
 ## 학력
 - 인제대학교 컴퓨터공학부 정보보안전공(2021.02 졸업예정)  
 
-## Solved.ac Tier
-- https://github.com/CODe1995/Baekjoon-Online-Judge  
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=code1995)](https://solved.ac/code1995)  
-
 ## 경험
 - [x] 2020 학부 학생회장
 - [x] [Online Judge 서비스하기](http://inje-oj.com:443)
@@ -29,6 +25,10 @@
 
 ## 계획
 - [ ] **Samsung Software Academy**
+
+## Solved.ac Tier
+- https://github.com/CODe1995/Baekjoon-Online-Judge  
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=code1995)](https://solved.ac/code1995)  
 
 ## Github Stats
 ![CODe1995's github stats](https://github-readme-stats.vercel.app/api?username=CODe1995&show_icons=true)  
