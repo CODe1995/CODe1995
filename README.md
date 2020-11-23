@@ -25,7 +25,7 @@
 - [x] 2020 학부 학생회장
 - [x] [Online Judge 서비스하기](http://inje-oj.com:443)
 - [x] 코딩 대회 개최 및 출제하기
-- [ ] SSAFY
+- [ ] **Samsung Software Academy**
 
 ## Github Stats
 ![CODe1995's github stats](https://github-readme-stats.vercel.app/api?username=CODe1995&show_icons=true)  
