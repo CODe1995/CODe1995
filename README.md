@@ -1,7 +1,8 @@
-[![HitCount](http://hits.dwyl.com/CODe1995/CODe1995.svg)](http://hits.dwyl.com/CODe1995/CODe1995)  
+[![HitCount](http://hits.dwyl.com/CODe1995/CODe1995.svg)](http://hits.dwyl.com/CODe1995/CODe1995)
+![45%](https://progress-bar.dev/45?title=update)  
 
 ## 소개
-- 이름: 강승현
+- 이름: **강승현**
 - Email: code.57x53@gmail.com
 - github: https://github.com/CODe1995
 - blog: https://code1995.tistory.com/  
