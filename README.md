@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->  
+[![HitCount](http://hits.dwyl.com/CODe1995/CODe1995.svg)](http://hits.dwyl.com/CODe1995/CODe1995)  
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=code1995)](https://solved.ac/code1995)  
 ![CODe1995's github stats](https://github-readme-stats.vercel.app/api?username=CODe1995&show_icons=true)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=code1995)](https://solved.ac/code1995)
