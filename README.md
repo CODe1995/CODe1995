@@ -6,7 +6,7 @@
 - Email: code.57x53@gmail.com
 - github: https://github.com/CODe1995
 - blog: https://code1995.tistory.com/  
-- 취미: 헬린이, 카페코딩, **사서고생하기**, **OJ**
+- 취미: 헬린이, 카페코딩, **사서고생하기**, OJ, [끝까지해보기](https://www.acmicpc.net/status?from_mine=1&problem_id=13547&user_id=code1995)
 ```
 오늘의 저는 어제의 저보다 성장해 있습니다.
 ```
@@ -20,6 +20,12 @@
 ## Solved.ac Tier
 - https://github.com/CODe1995/Baekjoon-Online-Judge  
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=code1995)](https://solved.ac/code1995)  
+
+## 소중한 경험과 경험이 될 것들
+- [x] 2020 학부 학생회장
+- [x] [Online Judge 서비스하기](http://inje-oj.com:443)
+- [x] 코딩 대회 개최 및 출제하기
+- [ ] SSAFY
 
 ## Github Stats
 ![CODe1995's github stats](https://github-readme-stats.vercel.app/api?username=CODe1995&show_icons=true)  
