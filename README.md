@@ -27,5 +27,5 @@
 - [ ] **Samsung Software Academy**
 
 ## Solved.ac Tier
-- https://github.com/CODe1995/Baekjoon-Online-Judge  
+[BOJ repo](https://github.com/CODe1995/Baekjoon-Online-Judge)  
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=code1995)](https://solved.ac/code1995)
