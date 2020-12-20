@@ -6,7 +6,7 @@
 - Email: code.57x53@gmail.com
 - github: https://github.com/CODe1995
 - blog: https://code1995.tistory.com/  
-- 취미: 헬린이, 카페코딩, **사서고생하기**, OJ, [끝까지해보기](https://www.acmicpc.net/status?from_mine=1&problem_id=13547&user_id=code1995)
+- 취미: 헬린이, 카페코딩, **사서고생하기**, OJ
 ```
 오늘의 저는 어제의 저보다 성장해 있습니다.
 ```
@@ -28,7 +28,4 @@
 
 ## Solved.ac Tier
 - https://github.com/CODe1995/Baekjoon-Online-Judge  
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=code1995)](https://solved.ac/code1995)  
-
-## Github Stats
-![CODe1995's github stats](https://github-readme-stats.vercel.app/api?username=CODe1995&show_icons=true)  
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=code1995)](https://solved.ac/code1995)
