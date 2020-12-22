@@ -24,7 +24,7 @@
 - [x] **ICCC 2020** poster paper accepted
 
 ## 계획
-- [ ] **Samsung Software Academy**
+- [X] **SSAFY** 5th
 
 ## Solved.ac Tier
 [BOJ repo](https://github.com/CODe1995/Baekjoon-Online-Judge)  
