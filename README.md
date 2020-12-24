@@ -22,9 +22,11 @@
 - [x] [Online Judge 서비스하기](http://inje-oj.com:443)
 - [x] 코딩 대회 개최 및 출제하기
 - [x] **ICCC 2020** poster paper accepted
+- [X] SSAFY 5th
 
 ## 계획
-- [X] **SSAFY** 5th
+- [ ] BOJ Platinum
+- [ ] Codeforces 1200+
 
 ## Solved.ac Tier
 [BOJ repo](https://github.com/CODe1995/Baekjoon-Online-Judge)  
