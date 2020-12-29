@@ -19,7 +19,7 @@
 
 ## 경험
 - [x] 2020 학부 학생회장
-- [x] [Online Judge 서비스하기](http://inje-oj.com:443)
+- [x] Online Judge 서비스하기
 - [x] 코딩 대회 개최 및 출제하기
 - [x] **ICCC 2020** poster paper accepted
 - [X] SSAFY 5th
