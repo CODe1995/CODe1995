@@ -6,7 +6,6 @@
 - Email: code.57x53@gmail.com
 - github: https://github.com/CODe1995
 - blog: https://code1995.tistory.com/  
-- 취미: 헬린이, 카페코딩, **사서고생하기**, OJ
 ```
 오늘의 저는 어제의 저보다 성장해 있습니다.
 ```
