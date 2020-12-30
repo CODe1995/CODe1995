@@ -20,7 +20,7 @@
 - [x] 2020 학부 학생회장
 - [x] Online Judge 서비스하기
 - [x] 코딩 대회 개최 및 출제하기
-- [x] **ICCC 2020** poster paper accepted
+- [x] **ICCC 2020** paper 우수논문
 - [X] SSAFY 5th
 
 ## 계획
