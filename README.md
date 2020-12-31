@@ -26,7 +26,3 @@
 ## 계획
 - [ ] BOJ Platinum
 - [ ] Codeforces 1200+
-
-## Solved.ac Tier
-[BOJ repo](https://github.com/CODe1995/Baekjoon-Online-Judge)  
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=code1995)](https://solved.ac/code1995)
