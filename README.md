@@ -5,7 +5,7 @@
 - 이름: **강승현**
 - Email: code.57x53@gmail.com
 - github: https://github.com/CODe1995
-- blog: https://code1995.tistory.com/  
+- blog: http://imksh.com/ 
 ```
 오늘의 저는 어제의 저보다 성장해 있습니다.
 ```
