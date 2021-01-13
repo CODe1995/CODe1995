@@ -4,8 +4,6 @@
 ## 소개
 - 이름: **강승현**
 - Email: code.57x53@gmail.com
-- github: https://github.com/CODe1995
-- blog: http://imksh.com/ 
 ```
 오늘의 저는 어제의 저보다 성장해 있습니다.
 ```
@@ -27,6 +25,16 @@
 ---
 <div align=center>
   
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=code1995)](https://solved.ac/code1995)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=code1995)](https://solved.ac/code1995)    
+<a href="https://instagram.com/1d1kkang">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="http://imksh.com">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=http://imksh.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 </div>
