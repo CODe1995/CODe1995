@@ -22,4 +22,11 @@
 
 ## 계획
 - [ ] BOJ Platinum
-- [ ] Codeforces 1200+
+- [ ] Codeforces 1200+  
+
+---
+<div align=center>
+  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=code1995)](https://solved.ac/code1995)
+
+</div>
