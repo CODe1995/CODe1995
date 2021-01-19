@@ -1,27 +1,31 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCODe1995%2FCODe1995%2Fedit%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![45%](https://progress-bar.dev/45?title=update)  
 
-## 소개
-- 이름: **강승현**
+## 😎About me
+- Name: **강승현**(Kang SeungHyun)
 - Email: code.57x53@gmail.com
 ```
-오늘의 저는 어제의 저보다 성장해 있습니다.
+I am a better man than who I was yesterday.
 ```
 
-## 학력
-- 인제대학교 컴퓨터공학부 정보보안전공(2021.02 졸업예정)  
+## 📕Education
+- 2014.03. ~ 2021.02) Bachelor of Science in Computer Engineering(Inje Univ.)
 
-## 경험
-- 한국전자통신연구원 하계 연구연수생 (2020)  
-- 2020 학부 학생회장
-- DB.Lab (2020-2)
-- QingdaoU OJ 서비스(교내 코딩 대회 개최 및 출제)
-- ICCC 2020 우수 논문
-- SSAFY 5기 교육생
+## 🏆Awards
+- 2020.12) ICCC 2020 best paper award  
+- 2020.12) LINK+ local start-up Competition Grand Prize  
 
-## 계획
-- [ ] BOJ Platinum
-- [ ] Codeforces 1200+  
+## 🖥Career
+- 2020.07. ~ 2020.08) Intern of the Korea Electronics and Telecommunications Research Institute(ETRI)  
+
+## ✨Experience
+- 2020.01. ~ 2020.12) Student leader of Computer Engineering
+- 2020.07. ~ 2021.02) Database Lab
+- 2021.01. ~ Now) 5th trainee of Samsung Software Academy
+
+## 💎Plan
+- [ ] BOJ Platinum tier
+- [ ] Codeforces rating 1200+  
 
 ---
 <div align=center>
