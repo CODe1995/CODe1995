@@ -15,7 +15,7 @@ I am a better man than who I was yesterday.
 
 ## 🏆Awards
 - 2020.12) ICCC 2020 best paper award  
-- 2020.12) LINK+ local start-up Competition Grand Prize  
+- 2020.12) LINK+ local start-up Competition Grand Prize(2rd)
 
 ## 🖥Career
 - 2020.07. ~ 2020.08) Intern of the Korea Electronics and Telecommunications Research Institute(ETRI)  
