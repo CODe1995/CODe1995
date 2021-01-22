@@ -21,10 +21,12 @@ I am a better man than who I was yesterday.
 - 2020.07. ~ 2020.08) Intern of the Korea Electronics and Telecommunications Research Institute(ETRI)  
 
 ## ✨Experience
-- 2021.01. ~ Now) 5th trainee of Samsung Software Academy
+### ETC
+- 2021.01. ~ **Now**) 5th trainee of Samsung Software Academy
+- 2019.12. ~ 2020.06) Student president of Private community service organization(Gimhae Central District, Rotary)
+### Inje Univ
 - 2020.07. ~ 2021.02) Database Lab
 - 2020.01. ~ 2020.12) Student president of Computer Engineering
-- 2019.12. ~ 2020.06) Student president of Private community service organization(Gimhae Central District, Rotary)
 
 ## 💎Plan
 - [ ] BOJ Platinum tier
