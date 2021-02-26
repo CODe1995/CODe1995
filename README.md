@@ -41,7 +41,7 @@ I am a better man than who I was yesterday.
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="http://imksh.com">
+<a href="https://code1995.tistory.com">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=http://imksh.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
