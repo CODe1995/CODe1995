@@ -29,7 +29,7 @@ I am a better man than who I was yesterday.
 - 2020.01. ~ 2020.12) Student president of Computer Engineering
 
 ## 💎Plan
-- [ ] BOJ Platinum tier
+- [x] BOJ Platinum tier
 - [ ] Codeforces rating 1200+  
 
 ---
